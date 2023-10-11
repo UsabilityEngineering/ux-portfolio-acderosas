@@ -10,4 +10,4 @@ BlueConnect
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[BlueStacks: An Android Emulator](j01/)
