@@ -2,7 +2,7 @@
 
 # BlueStacks: An Android Emulator
 
-I currently use BlueStacks, an app player that serves as a free Android Emulator. An emulator is something that allows a computing enviornment to behave like another one - in this case this software serves as an Android phone (There are other emulators out there that are for other game systems. E.g., SNES, NES, etc) on Windows or MAC OS.
+I currently use BlueStacks, an app player that serves as a free Android Emulator. An emulator is something that allows a computing enviornment to behave like another one - in this case this software serves as an Android phone (There are other emulators out there that are for other game systems. E.g., SNES, NES, etc) on Windows or macOS.
 
 
 Video of opening two different versions of BlueStacks
