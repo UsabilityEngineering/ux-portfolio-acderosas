@@ -18,7 +18,7 @@ The software has functions of the phone at the right sidebar and some functions 
 
 ## APK
 
-Downloading an apk (Android Package Kit) means downloading an Android Program - this is useful for downloading projects such as BlueConnect and helpful for installing and using apps outside of a given person's region without using a VPN. A VPN is a virtual private network and this just allows a person to have access to online services available in a different region. Since I'm in the US I can't play games that are exclusive to a region like Korea. For example, I've downloaded an apk for a Korean game called Trickcal Revive from QooApp. There is a translation shortcut but this isn't consistent as I have to do the shortcut everytime and that is cumbersome, but most importantly the translations isn't that great. 
+Downloading an apk (Android Package Kit) means downloading an Android Program - this is useful for downloading projects such as BlueConnect and helpful for installing and using apps outside of a given person's region without using a VPN. A VPN is a virtual private network and this just allows a person to have access to online services available in a different region. Since I'm in the US I can't play games that are exclusive to a region like Korea. For example, I've downloaded an apk for a Korean game called Trickcal Revive from QooApp. There is a translation shortcut but this isn't consistent as I have to do the shortcut everytime and that is cumbersome, translations sometimes don't work with certain fonts, but most importantly the translation format isn't the best.
 
 /*Video for apk of a foreign app exclusive... ctrl shift l to translate*/ 
 
@@ -28,7 +28,7 @@ I decided to use this app mainly because I heard other people using it. From doi
 
 ## Conclusions
 
-The positives: The app provides a much more stable experience than running on my phone since my PC has decent specs... Shortcuts to Android apps... THere is an option to disable ads but 
+The positives: The app provides a much more stable experience than running on my phone since my PC has decent specs... Shortcuts to Android apps... There is an option to disable ads but I don't do that so I can support the app.
 
 The negatives: Setting up the app player took some time. If a person not experienced with emulation were to set this app up they would encounter problems... The app can be unstable at times and there are certain apps that haven't fully been optimized to the player... A little annoying that some apps have to be on a different versions of BlueStacks (5 vs X)...
 
