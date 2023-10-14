@@ -4,6 +4,7 @@ My name is Andre de Rosas. I tranferred over from FLC and I'm majoring in Comput
 
 ![This is a photo of Andre](/assets/Andre.jpg.jpg)
 
+![This is a photo of Andre](/assets/samplegamescreen.png)
  
 ## UX Team Project
 
