@@ -11,7 +11,7 @@ I currently use both BlueStacks 5 and BluStack X to play games. The latter BlueS
 
 The software has functions of the phone at the right sidebar and some functions at the top bar of the window. The right sidebar can be toggled to be viewable/nonviewable. The buttons for the most part are straight forward but if someone doesn't remember what a button does, he/she can hover over it to get the function name of a button and its shortcut. For help, there is a designated question mark button that can be pressed. Sylistically the menu bars are fairly simple and minimalistic.
 
-![This is a sample screen](/assets/Sample Game Screen.png) 
+![This is a sample screen](/j01//assets/Sample Game Screen.png) 
 
 ## APK
 
