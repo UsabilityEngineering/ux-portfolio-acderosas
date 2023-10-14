@@ -12,6 +12,8 @@ Downloading an apk (Android Package Kit) means downloading an Android Program - 
 
 ![Before Translation](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/287f2ea6c72fdd6687dd8ae175692bb5f8021a2d/assets/before%20translation.png)
 
+![After Translation](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/287f2ea6c72fdd6687dd8ae175692bb5f8021a2d/assets/before%20translation.png)
+
 I decided to use this app mainly because I heard other people using it. From doing some research on other Android Emulators, BlueStacks has quite a few competitiors. The most notable apps include Anbox, Memu, and LDPlayer.  
 
 In review, this app provides a much more stable experience than running on my phone since my PC has decent specs to run games instead of crashing more times than not on my phone. The shortcuts to a given app and keyboard shorcuts are helpful and make using BlueStacks an easy experience when everythings is set up. There is even an option to disable ads but I don't do that so I can support BlueStacks. As for the drawbacks, setting up the app player took some time. If a person not experienced with emulation were to set this app up they would encounter a few problems - thankfully there are guides and help forums that BlueStacks provides. The app can be unstable at times and there are certain apps that haven't fully been optimized to the player. A little annoying that some apps have to be on a different versions of BlueStacks. For example, Arknights only runs on BlueStacks X and not on BlueStacks 5 where I have the rest of my apps downloaded to.
