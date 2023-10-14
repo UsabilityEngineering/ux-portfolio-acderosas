@@ -1,4 +1,4 @@
-# [ux-portfolio-acderosas](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/c53c23ac054a7136dc2e42cea822c9b3731a630b/README.md) 
+# [ux-portfolio-acderosas](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/c53c23ac054a7136dc2e42cea822c9b3731a630b/README.md)  
 
 # BlueStacks: An Android Emulator
 
