@@ -10,4 +10,4 @@ My name is Andre de Rosas. I tranferred over from FLC and I'm majoring in Comput
 
 ## UX Journal
 
-[BlueStacks: An Android Emulator](j01/)
+[BlueStacks: An Android Emulator](j01/README.md)
