@@ -1,4 +1,4 @@
-# BlueStacks: An Android Emulator
+# BlueStacks: An Android Emulator 
 
 I currently use BlueStacks, an app player that serves as a free Android Emulator. An emulator is something that allows a computing enviornment to behave like another one - in this case this software serves as an Android phone on Windows or macOS (There are other emulators out there that are for other game systems. E.g., SNES, NES, etc). I currently use both BlueStacks 5 and BlueStack X to play games. The latter BlueStacks version utilizes cloud storage which means storage that isn't on one's computer but rather on their servers. The reason for the two versions of BlueStacks is because some apps have to be on a different versions of BlueStacks. For example, Arknights only runs on BlueStacks X and not on BlueStacks 5 where I have the rest of my apps downloaded to. Since I have two versions I have a manager to manage which one should start but this isn't really necessary as the shortcut just launches the app to its given version - but *is* necessary to close the BlueStacks app if there is a problem. 
 
