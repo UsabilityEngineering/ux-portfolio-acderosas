@@ -13,17 +13,14 @@ The software has functions of the phone at the right sidebar and some functions 
 
 ![Sample Game Screen](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/68dfb1bcbff06549a6529e7968fe1ae891fafd92/assets/Sample%20Game%20Screen.png)
 
-## APK
 
 Downloading an apk (Android Package Kit) means downloading an Android Program - this is useful for downloading projects such as BlueConnect and helpful for installing and using apps outside of a given person's region without using a VPN. A VPN is a virtual private network and this just allows a person to have access to online services available in a different region. Since I'm in the US I can't play games that are exclusive to a region like Korea. For example, I've downloaded an apk for a Korean game called Trickcal Revive from QooApp. There is a translation shortcut but this isn't consistent as I have to do the shortcut everytime and that is cumbersome, translations sometimes don't work with certain fonts, but most importantly the translation format isn't the best.
 
 /*Video for apk of a foreign app exclusive... ctrl shift l to translate*/ 
 
-## Competitive Analysis
-
 I decided to use this app mainly because I heard other people using it. From doing some research on other Android Emulators, BlueStacks has quite a few competitiors. The most notable apps include Anbox, Memu, and LDPlayer.  
 
-## Conclusions
+
 
 The positives: The app provides a much more stable experience than running on my phone since my PC has decent specs... Shortcuts to Android apps... There is an option to disable ads but I don't do that so I can support the app.
 
