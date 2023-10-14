@@ -4,7 +4,7 @@ My name is Andre de Rosas. I tranferred over from FLC and I'm majoring in Comput
 
 ![This is a photo of Andre](/assets/Andre.jpg.jpg)
 
-
+ 
 ## UX Team Project
 
 [BlueConnect](https://github.com/ChicoState/UX-BlueConnect/blob/6f3c18dd80b105bf554a231ca26c8ad7d5a633b3/README.md)
