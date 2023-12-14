@@ -1,8 +1,8 @@
 # BlueStacks: An Android Emulator 
-Author: Andre de Rosas
-Edited 12/14/23
+### Author: Andre de Rosas
+### Edited 12/14/23
 
-I mainly use BlueStacks to play gacha games available in English but also those unavailable in English (goals). BlueStacks is an app player that serves as a free Android Emulator. An emulator is something that allows a computing enviornment to behave like another one - in this case this software serves as an Android phone on Windows or macOS (There are other emulators out there that are for other game systems. E.g., SNES, NES, etc.). With the previous statement in mind, there are shortcuts for the mobile applications in BlueStacks that can be saved to the main PC homescreen and many more functions to make the BlueStacks environment **learnable** and easy to use.
+I mainly use BlueStacks to play gacha games available in English but also those unavailable in English (goals). BlueStacks is an app player that serves as a free Android Emulator. An emulator is something that allows a computing enviornment to behave like another one - in this case this software serves as an Android phone on Windows or macOS (There are other emulators out there that are for other game systems. E.g., SNES, NES, etc.). With the previous statement in mind, there are shortcuts for the mobile applications in BlueStacks that can be saved to the main PC homescreen and many more features/buttons to make the BlueStacks environment **learnable** (easy to figure out the function) and easy to use.
 
 ### Sample Screen
 ![Sample Game Screen](../assets/samplegamescreen.png)
@@ -22,4 +22,4 @@ Here is the main loading screen that is in Korean
 ![After Translation](../assets/aftertranslation.png)
 Here is the main loading screen translated to English
 
-Overall, the app covers my needs despite the translation feature not matching my **mental model** (outcome). Personlly, BlueStacks is incredibly **effective** for playing gacha games as the experience is stable and playable on my PC (in comparison to my mobile devices being slower and crashing more frequently), **efficient** (discounting initial set-up) as playing a game can be done easily through a shortcut, and I'm **satisfied** with using BlueStacks. The overall design of BlueStacks makes the functionalities for buttons very **learnable** and easy to use. If someone were to only focus on playing foreign gacha games to experience the story I would advise waiting until the translation feature becomes a filter rather than a shortcut (as the current feature can make the experience the polar opposite of mine: not very effective, not efficient, and not satisfying).
+Overall, the app covers my needs despite the translation feature not matching my **mental model** (outcome). Personally, BlueStacks is incredibly **effective** for playing gacha games as the experience is stable and playable on my PC (in comparison to my mobile devices being slower and crashing more frequently), **efficient** (discounting initial set-up) as playing a game can be done easily through a shortcut, and I'm **satisfied** (enjoyed my experience) with using BlueStacks. The overall design of BlueStacks makes the functionalities for buttons very **learnable** and easy to use. If someone were to only focus on playing foreign gacha games to experience the story I would advise waiting until the translation feature becomes a filter rather than a shortcut (as the current feature can make the experience the polar opposite of mine: not very effective, not efficient, and not satisfying).
